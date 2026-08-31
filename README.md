@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pommm
-- 👀 I’m interested in Scuba, Microcontroller, Internet of Things
+- 👀 I’m interested in Scuba, Microcontroller, IoT, VFX pipeline
 
 
 <!---
